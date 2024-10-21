@@ -7,7 +7,7 @@ export default function Page() {
         My Portfolio
       </h1>
       <p className="mb-4">
-        {ZZZ}
+        {XXX YYY ZZZ}
       </p>
       <div className="my-8">
         <BlogPosts />
